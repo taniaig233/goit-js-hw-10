@@ -17,3 +17,28 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+.home-link {
+  margin-top: 50px;
+  width: 86px;
+  height: 40px;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background-color: #4e75ff;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
+.list {
+  margin-bottom: 20px;
+}
+
+.welcome-page {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #4e75ff;
+}
